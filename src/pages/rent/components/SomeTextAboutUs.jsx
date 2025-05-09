@@ -19,7 +19,7 @@ export default function SomeTextAboutUs() {
 							}
 						)}
 					>
-						Some text about us
+						Our Story
 					</h2>
 					<p className="font-medium mt-8 md:mt-12 xl:mt-20 max-w-[524px] min-h-[200px] relative z-10">
 						Lorem ipsum dolor sit amet consectetur. Nunc nisl tempor in
